@@ -17,27 +17,31 @@ I built the front end part of this website using HTML, CSS, Javascript and used 
 This is the home page of the website in which all the products have been displayed. User can also filter the products by choosing specific category.
 
 
-![Screenshot (115)](https://user-images.githubusercontent.com/81456948/200883561-a2c5383b-900c-4487-982c-0dae802cdd62.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/81456948/200884529-e2776fb2-fc5f-4fff-a4c8-ede4a4f9ad30.png)
 
 
 ### 2) Signup Screen
 User can register himself by providing his first name, last name, email, password and mobile number. All types of validations have been added in all the fields.
 
-![Screenshot (116)](https://user-images.githubusercontent.com/81456948/200883708-7c6fda5f-1b24-4378-9fa5-3fd13f181fa0.png)
+
+![Screenshot (120)](https://user-images.githubusercontent.com/81456948/200884622-5b18f680-3b4d-4a44-ae66-691d6c977d6c.png)
 
 
 ### 3) Login Screen 
 In Login Screen, user have to provide his email address and password and the we check whether he is registered in the database or not. If he is registered we navigate him to the landing page of the website other show error message on the login screen.
 
 
-![Screenshot (117)](https://user-images.githubusercontent.com/81456948/200883756-833c6b7d-4d83-488b-91fc-f5cc9f4a0de4.png)
+![Screenshot (121)](https://user-images.githubusercontent.com/81456948/200884747-25b75b08-8393-4155-8de9-3930e7c0d946.png)
 
 
 ### 4) Contact Us Screen
 When user clicks on contact us screen we basically navigate him to the contact screen in which our mobile number, email, address have been shown. He can also send us message .
 
 
-![Screenshot (118)](https://user-images.githubusercontent.com/81456948/200883824-bf87905e-7083-483e-a573-170ec0733f70.png)
+![Screenshot (122)](https://user-images.githubusercontent.com/81456948/200884801-6bbd608b-6f8c-49dc-8c40-62c529980209.png)
+
+
+
 
 
 
